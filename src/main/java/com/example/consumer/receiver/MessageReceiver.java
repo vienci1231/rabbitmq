@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
  * @author vienci
  * @date 2022/2/11 上午10:32
  */
-
 /**
  * 这是一个消息消费者
  */
